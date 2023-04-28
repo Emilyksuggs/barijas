@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.moonreading.com	TRUE	/	FALSE	1999999999	__cflb	0H28vcgm7AhaskgaGMmaZCm2RmaCd2tiv4qfotoScui
+www.moonreading.com	TRUE	/	FALSE	1999999999	SameSite	None
+www.moonreading.com	TRUE	/	FALSE	1999999999	PHPSESSID	cqjct3flk3ceqvi7i2l46g8bp3
+.moonreading.com	TRUE	/	FALSE	1999999999	moon_id	dfalt_badk1r5rdc6l
+
